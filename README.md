@@ -1,8 +1,25 @@
 # package_review_one
 
-A new Flutter project.
+# Flutter awesome package review video one: Staggered GridView for dynamic height content.
 
-## Getting Started
+This package is a best when we are fetching images from remote server and our card/item need to render according to images sizes.
+
+In this video I am reviewing the Staggered GridView package with a nice example. So, the content is as follow:
+
+1. Review problem of Flutter GridView.
+2. As a solution use Staggered GridView example.
+3. Build a simple app
+  - Fetch data from github page(json).
+  - Use FutureBuilder to display data in a elegant way.
+  - Use staggered grid view to display ads
+  - Use Card widget for each ad(json object).
+  - Add Image, Text widgets for title, price and location.
+  
+Screenshot:
+
+<img src="https://github.com/Blasanka/watch-ads/flexible gridview_flutter_Screenshot_2019-01-06-11-38-21.png" alt="Staggered gridview for dynamic height gridview in flutter" />
+  
+## Are you a beginner to Flutter?
 
 This project is a starting point for a Flutter application.
 
