@@ -1,5 +1,3 @@
-# package_review_one
-
 # Flutter awesome package review video one: Staggered GridView for dynamic height content.
 
 This package is a best when we are fetching images from remote server and our card/item need to render according to images sizes.
@@ -17,7 +15,7 @@ In this video I am reviewing the Staggered GridView package with a nice example.
   
 Screenshot:
 
-<img src="https://github.com/Blasanka/watch-ads/flexible gridview_flutter_Screenshot_2019-01-06-11-38-21.png" alt="Staggered gridview for dynamic height gridview in flutter" />
+<img src="https://github.com/Blasanka/watch-ads/blob/master/flexible%20gridview_flutter_Screenshot_2019-01-06-11-38-21.png" alt="Staggered gridview for dynamic height gridview in flutter" />
   
 ## Are you a beginner to Flutter?
 
